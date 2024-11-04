@@ -2,10 +2,10 @@
 
 <div style="display: flex; gap: 20px;">
   <a href="https://github.com/Honeybud">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Park0720&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Honeybud&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
   </a>
   <a href="https://github.com/Honeybud">
-    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Park0720&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
+    <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honeybud&layout=compact&theme=nord&hide_border=true" alt="Top languages" />
   </a>
 </div>
 
