@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Park0720&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Honeybud&fontSize=90)
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://github.com/Park0720">
+  <a href="https://github.com/Honeybud">
     <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Park0720&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's GitHub stats" />
   </a>
   <a href="https://github.com/Honeybud">
