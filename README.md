@@ -28,8 +28,8 @@
 [<img align="left" alt="SOKURI_CODE | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: https://velog.io/@ppmm98
+[website]: https://velog.io/
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [linkedin]: https://linkedin.com/in/
-[instagram]: https://instagram.com/min_j_98
+[instagram]: https://instagram.com/j._.jaehun
